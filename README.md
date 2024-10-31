@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Mustansir-cmd
+- 👋 Hi, I’m @Mustansir
+- Pursuing B.Tech in ECE
+- I am a Fullstack Developer
 - 👀 I’m interested in coding & software development
 - 🌱 I’m currently learning C++,python,java,verilog
 - 💞️ I’m looking to collaborate on ...
